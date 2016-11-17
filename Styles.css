@@ -1,0 +1,241 @@
+body{
+	
+	font-size: 24px;
+	margin: 0;
+}
+
+
+ul {
+	list-style: none;
+	margin: 0;
+}
+
+
+img {
+	width:400px;
+	border: 10px solid black;
+	border-radius: 100%;
+}
+
+
+p {
+	text-align:center;
+	color: white;
+	font-family:Arial;
+	margin: 0;
+
+}
+
+
+
+h1, h3{
+	color:white;
+}
+
+.special{
+	color:white;
+
+}
+
+/* This is a comment. */ 
+
+.top-section{ background: url(http://m.cdn.blog.hu/ne/neszeszer/image/phoebe-tonkin-zanita-morgan1.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	
+}
+
+.headings{
+	width: 300px;
+	color: white;
+	text-align: center ;
+	margin: 0 auto;
+}
+
+
+.profile-pic {
+	width: 50%;
+}
+
+.paragraphs{
+	width: 50%;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.nav-bar li {
+	display: inline-block;
+	padding-right: 30px;
+}
+
+.nav-bar ul{
+	text-align: right;
+	height: 50px;
+	padding-top: 10px;
+}
+
+.nav-bar {
+	background-color: pink;
+	position: fixed;
+	width: 100%;
+}
+
+.profile-pic img{
+	border-radius:100%;
+	width: 300px;
+	position:relative;
+}
+
+.profile-pic{
+	width: 300px;
+	margin: 0 auto;
+	padding-top: 100px;
+}
+
+.about-me{
+	background-color: violet;
+}
+
+.about-title{
+	text-align: center;
+	width: 200px;
+	margin: 0 auto;
+	padding-top: 50px;
+
+}
+
+.about-img{
+	width:50%;
+	max-width: 600px;
+	display: inline-block;
+	text-align:center;
+	background:red;
+}
+
+.about-img img{
+	width:400px;
+	margin: 0 auto;
+}
+
+.about-p{
+	width: 50%;
+	display:inline-block;
+	vertical-align: top;
+	text-align: center;
+}
+
+@media only screen and (max-width:950px){
+	.about-p{
+		width:100%;
+	}
+	
+	.about-img{
+		width:100%;
+	}
+}
+
+p{
+	padding:10px 20px 30px 40px;
+}
+
+
+
+@media only screen and (max-width:950px){
+	.about-work{
+		width:100%;
+	}
+	
+	.work-img{
+		width:100%;
+	}
+}
+
+p{
+	padding:10px 20px 30px 40px;
+}
+
+
+.my-work{
+	background-color:pink; 
+	text-align:center;
+}
+
+
+
+.work-title{
+	text-align: center;
+	width: 200px;
+	margin: 0 auto;
+	padding-top: 50px;
+
+}
+
+
+@media only screen and (max-width:950px){
+	.contact-us{
+		width:100%;
+	}
+	
+	.contact-img{
+		width:50%;
+	}
+}
+
+p{
+	padding:10px 20px 30px 40px;
+}
+
+.contact-us{
+	background-color:aqua; 
+	text-align:center;
+}
+
+.contact-title{
+	text-align: center;
+	width: 200px;
+	margin: 0 auto;
+	padding-top: 50px;
+
+}
+
+
+.contact-img{
+	text-align: left;
+	width: 400px;
+	margin: 0 auto;
+	padding-top: 50px;
+}
+
+
+.work1-img,.work2-img,.work3-img{
+	display: inline-block;
+	width: 33%;
+	margin: 0 auto;
+	padding: 50px 0;
+	vertical-align:top;
+}
+
+
+.bg{
+	width:400px;
+	height:200px;
+	background-color: green;
+
+	position: relative;
+}
+.heading{
+	width:150px;
+	height:50px;
+	background-color:purple;
+
+	position: absolute;
+	bottom: 0;
+}
+
+
+
+
+
+

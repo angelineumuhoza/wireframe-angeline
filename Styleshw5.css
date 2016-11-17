@@ -1,0 +1,30 @@
+.block,.block2,.block3{
+	width: 33.3333%;
+	display: inline-block;
+	height: 300px;
+	position: relative;
+	
+	
+}
+
+.block{
+	background-image: url("cities-002.jpg");
+
+}
+
+.block2{
+	background-image: url("cities-002.jpg");
+
+}
+
+.block3{
+	background-image: url("cities-002.jpg");
+
+}
+
+.contentblock{
+	position:absolute;
+	bottom:0;
+	background-color: rgba(0,0,0,0.5)
+
+}

@@ -1,0 +1,55 @@
+
+ .block1, .block2, .block3{
+ 	width: 33.333%;
+	display: inline-block;
+	height: 1200px;
+	position:relative;
+}
+
+
+.nav-bar{
+	background-image: url("11154981_1050901404933185_6208558753597524083_o.jpg");
+}
+
+.content-block{
+	position:absolute;
+}
+
+p{
+	font-size: 200%;
+}
+
+.Title{
+	text-align: center;
+	width: 200px;
+    margin: 0 auto;
+    padding-top: 50px;
+    font-size: 200%;
+}
+
+.Section-2{
+	background-image: url("http://abovethelaw.com/wp-content/uploads/2015/08/UVA-University-of-Virginia-rotunda.jpg")
+}
+.Title{
+	width: 100%;
+	display: inline-block;
+	height: 800px;
+	position:relative;
+	color:blue;
+}
+
+p{
+	color: white;
+	text-align: center;
+	font-size: 100%
+}
+
+.Section-3{
+	background-image: url("tumblr_n1thmxobkd1syu37ho1_500.jpg");
+}
+.Section-3{
+	width: 100%;
+	display: inline-block;
+	height: 1000px;
+	position:relative;
+}
